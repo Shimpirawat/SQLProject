@@ -1,1 +1,3 @@
-# SQLProject
+### > SQL Project
+This repo contains a SQL project of `Data Exploration` and  `Data cleaning` 
+implemented on the [data](https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&time=2020-03-01..latest&facet=none&country=IND~USA~GBR~CAN~DEU~FRA&pickerSort=asc&pickerMetric=location&hideControls=false&Metric=Confirmed+deaths&Interval=7-day+rolling+average&Relative+to+Population=true&Color+by+test+positivity=false) that is taken from the website [OurWorldInData](https://ourworldindata.org/covid-deaths) that tells the confirmed COVID-19 deaths per million people all over the world, with all the Sql queries I have learned in the process so far.
